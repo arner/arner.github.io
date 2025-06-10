@@ -4,6 +4,8 @@ date: 2020-11-01T17:13:02+01:00
 draft: false
 ---
 
+| Warning: this tutorial is quite old. Not all vacuums support the method! See the [thread](https://community.home-assistant.io/t/glados-portal-voice-pack-for-roborock-xiaomi-vacuums/241101/23) at the home assistant forums for details.
+
 Since last weekend my floor is cleaned by [GLaDOS](https://theportalwiki.com/wiki/GLaDOS), the artificial intelligence who supervises the Aperture Science testing facilities in the Portal games.
 
 {{< youtube l_V5AHoImqk >}}
